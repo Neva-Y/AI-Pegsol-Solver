@@ -1,0 +1,7 @@
+STATS:
+Expanded nodes: 10000
+Generated nodes: 32469
+Solution Length: 34
+Number of Pegs Left: 4
+Expanded/seconds: 156071
+Time (seconds): 0.064073
